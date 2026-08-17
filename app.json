@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "BloomDay",
+    "slug": "bloomday",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#FFF9ED"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.bloomday.app"
+    },
+    "android": {
+      "package": "com.bloomday.app"
+    }
+  }
+}
